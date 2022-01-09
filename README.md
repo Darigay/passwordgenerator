@@ -19,8 +19,7 @@ Passwords are a real security threat. Over 80% of hacking-related breaches are d
 - JS
 
 ## ScreenShot of website
-
-
+ 
 ## Resources
 - W3schools.com
 - stackoverflow
