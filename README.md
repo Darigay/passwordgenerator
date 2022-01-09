@@ -19,6 +19,7 @@ Passwords are a real security threat. Over 80% of hacking-related breaches are d
 - JS
 
 ## ScreenShot of website
+![passwordgenerator](https://user-images.githubusercontent.com/94805706/148696098-31fb6126-c100-44da-af70-a0e79a3d5c32.jpg)
 
 
 ## Resources
